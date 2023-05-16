@@ -1,1 +1,1 @@
-# data-analysis-with-power-using-sql-dashboard
+# data-analysis-with-powerBi -using-sql-dashboard
